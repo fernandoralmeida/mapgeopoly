@@ -1,0 +1,10 @@
+# Arquivos e diretórios padrão a serem ignorados em projetos C#
+csv/
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+*.dll
